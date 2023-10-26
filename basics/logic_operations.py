@@ -148,6 +148,7 @@ a == None # True
 
 # num = int(input('Введите число: '))
 # print('hello') if num == 5 else print('bye') 
+
 """этот код предназначен для принятия и сравнения числа с 5 """
 # if num == 5:print('hello') else print('bye')
 
